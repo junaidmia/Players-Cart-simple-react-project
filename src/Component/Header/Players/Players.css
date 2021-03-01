@@ -1,0 +1,22 @@
+.playerBox{
+   
+    display: flex;
+    width: 70%;
+    margin:30px;    
+    
+}
+.pic{
+    width:100%;
+    border:2px solid red;
+    /* display: flex; */
+  
+    
+}
+.abc{
+    display: flex;
+    
+}
+.details{
+    margin-left: 40px;
+    margin-top: 30px;
+}
